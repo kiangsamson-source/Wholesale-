@@ -1,0 +1,6 @@
+{
+  "name": "Wholesale Connect",
+  "description": "Resolve wholesale business issues with Gemini AI assistance, browse wholesale clothes and shoes, and chat directly with vendors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
